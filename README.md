@@ -84,6 +84,7 @@ bitbucket_cli/
 │   ├── users.py
 │   └── branch_permissions.py
 ├── .gitignore
+├── .env.example
 ├── README.md
 └── requirements.txt
 ```
